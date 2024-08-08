@@ -2,4 +2,4 @@
 
 During supplementation
 
-![](./assets/demo.png)
+![demo](assets/demo.png)
