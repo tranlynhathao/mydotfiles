@@ -1,0 +1,22 @@
+{
+  "languageserver": {
+    "html": {
+      "command": "vscode-html-language-server",
+      "args": ["--stdio"],
+      "filetypes": ["html"],
+      "trace": "verbose"
+    },
+    "css": {
+      "command": "vscode-css-language-server",
+      "args": ["--stdio"],
+      "filetypes": ["css"],
+      "trace": "verbose"
+    },
+    "typescript": {
+      "command": "typescript-language-server",
+      "args": ["--stdio"],
+      "filetypes": ["typescript", "typescriptreact"],
+      "trace": "verbose"
+    }
+  }
+}
